@@ -1,0 +1,32 @@
+ros-indigo-rail-object-detection (3.0.1-0trusty) trusty; urgency=high
+
+  * Create a separate package for the messages
+  * Contributors: Siddhartha Banerjee, banerjs
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Fri, 07 Sep 2018 04:00:00 -0000
+
+ros-indigo-rail-object-detection (2.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Mon, 11 Dec 2017 05:00:00 -0000
+
+ros-indigo-rail-object-detection (1.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Thu, 09 Feb 2017 18:43:00 -0000
+
+ros-indigo-rail-object-detection (1.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Thu, 09 Feb 2017 05:04:00 -0000
+
+ros-indigo-rail-object-detection (1.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Fri, 03 Feb 2017 05:00:00 -0000
+
+
