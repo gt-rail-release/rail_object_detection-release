@@ -1,0 +1,28 @@
+From d76aaae3df9d33b185ff6eff0151e8670869d95c Mon Sep 17 00:00:00 2001
+From: Siddhartha Banerjee <banerjs.sid@gmail.com>
+Date: Fri, 7 Sep 2018 17:03:59 -0400
+Subject: [PATCH] Updated author name to match email
+
+---
+ package.xml | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/package.xml b/package.xml
+index 527a65c..5a683f2 100644
+--- a/package.xml
++++ b/package.xml
+@@ -5,9 +5,9 @@
+   <description>Object Detection methods used in the RAIL Lab</description>
+ 
+   <author email="banerjs.sid@gmail.com">Siddhartha Banerjee</author>
+-  <author email="andrew.silva@gatech.edu">David Kent</author>
++  <author email="andrew.silva@gatech.edu">Andrew Silva</author>
+   <maintainer email="banerjs.sid@gmail.com">Siddhartha Banerjee</maintainer>
+-  <maintainer email="andrew.silva@gatech.edu">David Kent</maintainer>
++  <maintainer email="andrew.silva@gatech.edu">Andrew Silva</maintainer>
+ 
+   <license>MIT</license>
+ 
+-- 
+1.9.1
+
