@@ -2,6 +2,10 @@
 Changelog for package rail_object_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.2 (2018-11-01)
+------------------
+* Update the default branch
+
 3.0.1 (2018-09-07)
 ------------------
 * Create a separate package for the messages
