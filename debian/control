@@ -1,0 +1,12 @@
+Source: ros-indigo-rail-object-detection
+Section: misc
+Priority: extra
+Maintainer: Siddhartha Banerjee <banerjs.sid@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/rail_object_detection
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rail-object-detection
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-rail-object-detection-msgs, ros-indigo-rail-object-detector
+Description: Object Detection methods used in the RAIL Lab
