@@ -1,0 +1,5 @@
+Cython
+EasyDict
+mxnet-cu80
+Pillow
+pyyaml
